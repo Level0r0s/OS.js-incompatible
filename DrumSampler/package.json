@@ -1,0 +1,18 @@
+{
+  "className":  "ApplicationDrumSampler",
+  "enabled":    false,
+  "name":       "Drum Sampler UNCOMPATIBLE AT THE MOMENT",
+  "mime":       ["osjs\\/dbeat"],
+  "icon":       "devices/speaker.png",
+  "category":   "multimedia",
+  "preload":    [
+    {"src": "gui.js", "type": "javascript"},
+    {"src": "sampler.js", "type": "javascript"},
+    {"src": "demos.js", "type": "javascript"},
+    {"src": "main.js", "type": "javascript"},
+    {"src": "main.css", "type": "stylesheet"}
+  ]
+}
+
+
+
