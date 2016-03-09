@@ -2,7 +2,7 @@
 
 This repository contains Extra packages for [OS.js](https://github.com/os-js/OS.js).
 
-Follow [the official instructions](http://os.js.org/doc/manuals/man-package-manager.html) on how to add this repository.
+Follow [the official instructions](https://os.js.org/doc/manuals/man-package-manager.html) on how to add this repository.
 
 **THIS REPOSITORY CONTAINS PACKGES CURRENTLY NOT COMPATIBLE DUE TO API CHANGES**
 
